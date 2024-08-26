@@ -14,3 +14,5 @@
 1. Use glm-4-flash, and the API_LEY should be unique
 2. Use OpenAI Embedding API, and the API_KEY should be unique
 3. Use FAISS VectorStore and local pdf references to create vectorstore
+4. You can change your favorite image to replace the current one
+5. The dataset directory is too large that I didn't uploaded, you can download online some reference which you may want to use
